@@ -1,4 +1,5 @@
 print ("cos")
 print("coscos")
 print ("cosocoxosos")
-print("kotki")
+print("male kotki")
+print("miau")
